@@ -1,3 +1,7 @@
+# TEAM MEMBERS
+1. Arunachalaeswar Chandran (20250179)
+
+
 # Credit-Card-Fraud-Transaction-Analysis
 Statistical analysis and visualization of credit card transaction data to identify patterns in fraudulent activities using R and data analytics techniques.
 # Credit Card Fraud Detection using Statistical Analysis
